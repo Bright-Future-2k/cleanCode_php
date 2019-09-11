@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8481a05e-7028-4ab7-8cc8-290edf53ef93" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/../class_linkedListSimple/.idea/class_linkedListSimple.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../class_linkedListSimple/LinkListMain.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../class_linkedListSimple/LinkedList.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../class_linkedListSimple/Node.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../class_listSimple/.idea/class_listSimple.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../count_string/.idea/count_string.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../count_string/count_string.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dang_ki_nguoi_dung/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dang_ki_nguoi_dung/.idea/dang_ki_nguoi_dung.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dang_ki_nguoi_dung/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dang_ki_nguoi_dung/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dang_ki_nguoi_dung/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dang_ki_nguoi_dung/file.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dang_ki_nguoi_dung/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../danh_sach_khach/.idea/danh_sach_khach.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../example_Resizeable" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hien_error_number/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hien_error_number/.idea/hien_error_number.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hien_error_number/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hien_error_number/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hien_error_number/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hien_error_number/Calculate.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hien_error_number/function.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hien_error_number/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hien_thi_cac_loai_hinh/.idea/hien_thi_cac_loai_hinh.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hien_thi_cac_loai_hinh/iso_triangle.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hien_thi_cac_loai_hinh/my.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hien_thi_cac_loai_hinh/rectangle.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hien_thi_cac_loai_hinh/squara_triangle.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hien_thi_cac_loai_hinh/type_form.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interface_cho _lopHinh/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../login/.idea/login.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../method_of_arrayList/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../method_of_arrayList/.idea/method_of_arrayList.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../method_of_arrayList/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../method_of_arrayList/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../method_of_arrayList/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../method_of_arrayList/My list.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../method_of_arrayList/MylistTest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../prime_number_yourself/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../prime_number_yourself/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../prime_number_yourself/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../prime_number_yourself/.idea/prime_number_yourself.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../prime_number_yourself/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../prime_number_yourself/prime_number.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sum_duong_cheo-chinh/.idea/sum_duong_cheo-chinh.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sum_duong_cheo-chinh/tinh_sum.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xoa_phan_tu_arr/.idea/xoa_phan_tu_arr.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xoa_phan_tu_arr/delete_arr.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../danh_sach_khach/danh_sach.php" beforeDir="false" afterPath="$PROJECT_DIR$/../danh_sach_khach/danh_sach.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../login" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../login.php" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-token-stream" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/vendor/phar-io/version" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1QgQHDxHHtfNkbq9tPeeny1Otlh" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8481a05e-7028-4ab7-8cc8-290edf53ef93" name="Default" comment="" />
+      <created>1540400408276</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1540400408276</updated>
+      <workItem from="1540400409521" duration="1517000" />
+      <workItem from="1540432741853" duration="724000" />
+      <workItem from="1540564808578" duration="1911000" />
+      <workItem from="1568189671443" duration="815000" />
+      <workItem from="1568190560699" duration="2069000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
